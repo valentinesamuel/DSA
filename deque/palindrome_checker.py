@@ -1,4 +1,4 @@
-import Deque
+import deque.Deque as Deque
 
 def pal_checker(a_string):
       char_deque = Deque()

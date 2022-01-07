@@ -1,5 +1,5 @@
 from typing import Counter, Text
-import Node
+import linkedlist.Node as Node
 
 class UnorderedList:
       def __init__(self):
